@@ -2,7 +2,7 @@
 <ERP>  
     <Login>
 	    <chrome>chromedriver.exe</chrome>
-        <url>http://orangehrm.qedgetech.com/webapp/login.php</url>  
+        <url>http://webapp.qedgetech.com/login.php</url>  
         <login>admin</login>  
         <password>master</password> 
     </Login>
